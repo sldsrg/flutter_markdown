@@ -8,7 +8,9 @@ dependencies:
   flutter:
     sdk: flutter
   markdown: 
-    git: https://github.com/sldsrg/markdown.git
+    git:
+      url: https://github.com/sldsrg/markdown.git
+      ref: encode-html
   meta: ^1.0.5
   string_scanner: ^1.0.0
   path: ^1.5.1
